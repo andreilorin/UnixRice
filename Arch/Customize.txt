@@ -1,0 +1,3 @@
+// themes-icons
+https://git.io/papirus-icon-theme
+https://github.com/horst3180/Arc-theme

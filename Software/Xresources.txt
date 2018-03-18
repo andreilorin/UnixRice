@@ -1,0 +1,7 @@
+~/.Xresources
+
+*** this file holds configuration settings for different programs
+	programName.setting: value
+
+*** to reload settings after modifying the file run:
+	xrdb ~/.Xresources

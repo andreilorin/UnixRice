@@ -1,0 +1,5 @@
+To change the configuration of i3, copy /etc/i3/config to ~/.i3/config (or ~/.config/i3/config if you like the XDG directory scheme)
+ and edit it with a text editor.
+
+
+https://i3wm.org/docs/userguide.html#configuring

@@ -1,0 +1,25 @@
+*** add key short cut (ubuntu through GUI, for others find the file that holds keyboard shortcuts) or change config file
+map "Alt + R" to: rofi -combi-modi window,drun -show combi
+
+run=show executables
+drun=show gui apps
+window=show open
+
+-combi-modi : combine what you want rofi to show
+-show combi : tell rofi to show your combination
+
+
+*** config file
+	~/.config/rofi/config
+	or ~/.Xresources
+
+*** select theme by typing "Theme" inside rofi
+	themes are stored in: /usr/share/rofi/themes
+ 
+
+*** YOUTUBE
+https://www.youtube.com/watch?v=2FYEch1iljE&t=0s&list=WL&index=3
+
+***Shortcuts
+Shift + Left or Right -> switch between modes
+Shift + Enter -> open terminal on selected command

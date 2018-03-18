@@ -1,0 +1,6 @@
+// change gnome appearance 
+/usr/share/gnome-shell/theme/gnome-shell.css
+
+// icon themes
+https://git.io/papirus-icon-theme
+https://github.com/horst3180/Arc-theme

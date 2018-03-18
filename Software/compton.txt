@@ -1,0 +1,21 @@
+Compton is a standalone compositor for Xorg, suitable for use with window managers that do not provide compositing.
+Compton is a fork of xcompmgr-dana, which in turn is a fork of xcompmgr.
+
+The default configuration is available in /etc/xdg/compton.conf.
+For modifications, it can be copied to ~/.config/compton.conf, or to ~/.compton.conf.
+
+To use a custom configuration file with compton during a session, use the following command:
+
+$ compton --config path/to/compton.conf
+To auto-start compton as a background (Daemon) process for a session, specify the -b argument:
+
+$ compton --config path/to/compton.conf -b
+Disable shadows for some windows
+The shadow-exclude option can disable shadows for windows if required. For currently disabled windows, see here.
+
+To disable shadows for menus add the following to wintypes in compton.conf:
+
+# menu        = { shadow = false; };
+dropdown_menu = { shadow = false; };
+popup_menu    = { shadow = false; };
+# utility     = { shadow = false; };

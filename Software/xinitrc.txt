@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+xbindkeys 	- binds keys from ~/.xbindkeysrc
+exec i3 	- starts the window manager or desktop environment

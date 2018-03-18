@@ -1,0 +1,32 @@
+curl - command line tool and library for transferring data with URLs (wget should be installed by default)
+docker - virtualization
+grub - boot loader
+gufw(ufw) - firewall
+htop - interactive process viewer
+jenkins - ci tools
+neofetch - system info tool
+net-tools - network tools
+nmap - security scanner, port scanner and network exploration tool
+ranger - terminal file manager
+rofi -  window switcher, application launcher
+tmux - terminal multiplexer
+ubuntu tweaks - ubuntu specific settings
+urxvt(rxvt-unicode) - terminal emulator
+vim(neovim, spacevim) - text editor
+virtualbox - virtuialization
+xbindkeys - bind commands to keys
+zsh - shell
+
+
+
+config files:
+~/.Xresources
+~/.xinitrc
+~/.xbindkeysrc		- bind commands to keys
+/etc/sudoers		- users
+
+
+usefull commands: 
+ls -al			- list all files and folders
+df -P			- disk space
+hostname -I		- my external ip address
