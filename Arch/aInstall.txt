@@ -1,4 +1,4 @@
-compton (doesn't work for Ubuntu, it uses it's own gnome composition app)
+compton (Ubuntu uses it's own gnome composition app)
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 docker - virtualization
 grub - boot loader
@@ -9,6 +9,10 @@ neofetch - system info tool
 net-tools - network tools
 NetworkManager - tool for detection and configuration for systems to automatically connect to network
 nmap - security scanner, port scanner and network exploration tool
+zip - file archiver
+polybar - status bar
+pulseaudio - general purpose sound server
+qutebrowser - keyboard focused browser with a minimal GUI
 ranger - terminal file manager
 rofi -  window switcher, application launcher
 tmux - terminal multiplexer
@@ -16,19 +20,19 @@ ufw - firewall
 urxvt(rxvt-unicode) - terminal emulator
 vim(neovim, spacevim) - text editor
 virtualbox - virtualization
+vlc - multimedia player
 xbindkeys - bind commands to keys
 zsh - shell
 
 
 config files:
-~/.Xresources
-~/.xinitrc
+~/.Xresources       - user level configuration dotfile, it can be used to set X resources, the configuration parameters for X client applications
+~/.xinitrc          - is executed by xinit, which is usually invoked via startx
 ~/.xbindkeysrc		- bind commands to keys
-/etc/sudoers		- users
+/etc/sudoers		- system users
 
 
 usefull commands: 
-ls -al			- list all files and folders
+ls -al			- list all files and folders with properties
 df -P			- disk space
 hostname -I		- my external ip address
-hostname -I

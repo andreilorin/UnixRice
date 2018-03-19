@@ -7,26 +7,29 @@ jenkins - ci tools
 neofetch - system info tool
 net-tools - network tools
 nmap - security scanner, port scanner and network exploration tool
+zip - archiver
+pulseaudio - general purpose sound server
 ranger - terminal file manager
 rofi -  window switcher, application launcher
 tmux - terminal multiplexer
 ubuntu tweaks - ubuntu specific settings
 urxvt(rxvt-unicode) - terminal emulator
 vim(neovim, spacevim) - text editor
-virtualbox - virtuialization
+virtualbox - virtualization
+vlc - multimedia player
 xbindkeys - bind commands to keys
 zsh - shell
 
 
 
 config files:
-~/.Xresources
-~/.xinitrc
+~/.Xresources       - user-level configuration dotfile, it can be used to set X resources, the configuration parameters for X client applications
+~/.xsessionrc       - is executed on Debian by the X startup scripts on a GUI login
 ~/.xbindkeysrc		- bind commands to keys
-/etc/sudoers		- users
+/etc/sudoers		- system users
 
 
 usefull commands: 
-ls -al			- list all files and folders
+ls -al			- list all files and folders with properties
 df -P			- disk space
 hostname -I		- my external ip address
