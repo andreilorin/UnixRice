@@ -1,4 +1,4 @@
-#**Archlinux Installation Guide And Rice**
+# **Archlinux Installation Guide And Rice**
 
 ```
 pacman -Syu rofi
