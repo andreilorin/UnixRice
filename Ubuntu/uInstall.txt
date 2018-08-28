@@ -1,17 +1,30 @@
+conky -  light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
+dialog - creates text based color dialog boxes from any shell script language
 docker - virtualization
+feh - image viewer
+firefox - browser
 grub - boot loader
 gufw(ufw) - firewall
 htop - interactive process viewer
 jenkins - ci tools
+kvm/qemu - virtualization
 neofetch - system info tool
+neomutt - mail reader
+nerdtree - file system explorer for the Vim editor
 net-tools - network tools
 nmap - security scanner, port scanner and network exploration tool
 zip - archiver
+powerline - is a statusline plugin for Vim
 pulseaudio - general purpose sound server
 ranger - terminal file manager
 rofi -  window switcher, application launcher
+sc-im - vim centered terminal spreadsheet manager
+st - terminal emulator
+tigervnc(tightVNC) - VNC client/server
+thunderbird - email client
 tmux - terminal multiplexer
+tilix - tiling terminal emulator
 ubuntu tweaks - ubuntu specific settings
 urxvt(rxvt-unicode) - terminal emulator
 vim(neovim, spacevim) - text editor
@@ -23,13 +36,19 @@ zsh - shell
 
 
 config files:
-~/.Xresources       - user-level configuration dotfile, it can be used to set X resources, the configuration parameters for X client applications
+~/.Xresources       - user-level configuration dotfile, it can be used to set X resources, the configuration parameters for X client applications;
+                    ~/.Xdefaults is a deprecated name in modern implementations
 ~/.xsessionrc       - is executed on Debian by the X startup scripts on a GUI login
+~/.xprofile         - similar to the above file,  but it's part of the session startup script of GDM (GNOME display manager), it's only read if you log in with GDM
 ~/.xbindkeysrc		- bind commands to keys
 /etc/sudoers		- system users
 
 
-usefull commands: 
+usefull commands:
+xrdb ~/.Xresources - reload x resources 
 ls -al			- list all files and folders with properties
 df -P			- disk space
 hostname -I		- my external ip address
+
+python -m SimpleHTTPServer 8000     - python2.7
+python3 -m http.server 8000          - python3.5
