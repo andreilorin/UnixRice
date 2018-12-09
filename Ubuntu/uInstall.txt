@@ -1,21 +1,32 @@
+cloc - count lines of code
 conky -  light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 dialog - creates text based color dialog boxes from any shell script language
+dnsutils - networking
 docker - virtualization
 feh - image viewer
 firefox - browser
+fkill - fabulously kill processes
+git - file versioning
+glances - monitoring tool
 grub - boot loader
 gufw(ufw) - firewall
+haproxy - load balancer
 htop - interactive process viewer
+httpie -  command line HTTP client
 jenkins - ci tools
 kvm/qemu - virtualization
 neofetch - system info tool
 neomutt - mail reader
 nerdtree - file system explorer for the Vim editor
 net-tools - network tools
+netdata - network monitoring
+networkmanager - tool for detection and configuration for systems to automatically connect to network
+nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
 zip - archiver
 powerline - is a statusline plugin for Vim
+pscircle - visualizes linux processes in a radial tree
 pulseaudio - general purpose sound server
 ranger - terminal file manager
 rofi -  window switcher, application launcher
@@ -43,12 +54,18 @@ config files:
 ~/.xbindkeysrc		- bind commands to keys
 /etc/sudoers		- system users
 
+/etc/motd           - message of the day
+/etc/update-motd.d/
 
 usefull commands:
 xrdb ~/.Xresources - reload x resources 
 ls -al			- list all files and folders with properties
 df -P			- disk space
 hostname -I		- my external ip address
+sudo netstat -tupln | grep regex  - open ports for regex
+lsof - list of all open files and the processes that opened them
+dpkg -L packagename - list of files in packagename
+tree
 
 python -m SimpleHTTPServer 8000     - python2.7
 python3 -m http.server 8000          - python3.5
