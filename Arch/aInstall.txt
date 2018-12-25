@@ -25,6 +25,7 @@ netdata - network monitoring
 networkmanager - tool for detection and configuration for systems to automatically connect to network
 nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
+nnn - terminal file manager
 zip - file archiver
 polybar - status bar
 powerline - is a statusline plugin for Vim

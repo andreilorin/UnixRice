@@ -24,6 +24,7 @@ netdata - network monitoring
 networkmanager - tool for detection and configuration for systems to automatically connect to network
 nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
+nnn - terminal file manager
 zip - archiver
 powerline - is a statusline plugin for Vim
 pscircle - visualizes linux processes in a radial tree
