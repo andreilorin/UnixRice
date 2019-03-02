@@ -39,6 +39,7 @@ rofi -  window switcher, application launcher
 sc-im - vim centered terminal spreadsheet manager
 st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
+time - time how long a command takes to execute
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator
