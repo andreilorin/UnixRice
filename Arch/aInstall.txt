@@ -1,3 +1,4 @@
+ack - grep replacement 
 cloc - count lines of code
 compton (Ubuntu uses it's own gnome composition app)
 conky - light-weight system monitor for X
@@ -17,6 +18,7 @@ httpie -  command line HTTP client
 i3(i3-gaps) - tiling window manager
 inxi - system informatio tool
 jenkins - ci tools
+jq - json parser
 kvm/qemu - virtualization
 neofetch - system info tool
 neomutt - mail reader
@@ -38,6 +40,7 @@ rofi -  window switcher, application launcher
 sc-im - vim centered terminal spreadsheet manager
 st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
+time - time how long a command takes to execute
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator

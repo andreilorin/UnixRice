@@ -1,3 +1,5 @@
+ack - grep replacement
+catfish - file search gui
 cloc - count lines of code
 conky -  light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
@@ -16,6 +18,7 @@ htop - interactive process viewer
 httpie -  command line HTTP client
 inxi - system informatio tool
 jenkins - ci tools
+jq - json parser
 kvm/qemu - virtualization
 neofetch - system info tool
 neomutt - mail reader
@@ -35,6 +38,7 @@ rofi -  window switcher, application launcher
 sc-im - vim centered terminal spreadsheet manager
 st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
+time - time how long a command takes to execute
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator
