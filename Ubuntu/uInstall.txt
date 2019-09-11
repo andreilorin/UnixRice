@@ -14,6 +14,7 @@ gufw(ufw) - firewall
 haproxy - load balancer
 htop - interactive process viewer
 httpie -  command line HTTP client
+inxi - system informatio tool
 jenkins - ci tools
 kvm/qemu - virtualization
 neofetch - system info tool
@@ -39,10 +40,12 @@ tmux - terminal multiplexer
 tilix - tiling terminal emulator
 ubuntu tweaks - ubuntu specific settings
 urxvt(rxvt-unicode) - terminal emulator
+vifm - terminal file manger
 vim(neovim, spacevim) - text editor
 virtualbox - virtualization
 vlc - multimedia player
 xbindkeys - bind commands to keys
+youtube-dl - download videos, audio
 zsh - shell
 
 
