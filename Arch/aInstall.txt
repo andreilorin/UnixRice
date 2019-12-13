@@ -1,9 +1,11 @@
-ack - grep replacement 
+ack - grep replacement
+bspwm - tiling window manager 
 cloc - count lines of code
 compton (Ubuntu uses it's own gnome composition app)
 conky - light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 dialog - creates text based color dialog boxes from any shell script language
+dmenu - dynamic menu
 dnsutils - networking
 docker - virtualization
 feh - image viewer(can set wallpaper)
@@ -52,7 +54,7 @@ virtualbox - virtualization
 vlc - multimedia player
 xbindkeys - bind commands to keys
 youtube-dl - download videos, audio
-zsh - shell
+zsh - shell (ohmyzsh + powerlevel10k)
 
 
 
@@ -75,6 +77,7 @@ sudo netstat -tupln | grep regex  - open ports for regex
 lsof - list of all open files and the processes that opened them
 packman -Ql packagename - list of files in packagename
 tree - 
+lshw
 
 python -m SimpleHTTPServer 8000     - python2.7
 python3 -m http.server 8000          - python3.5
