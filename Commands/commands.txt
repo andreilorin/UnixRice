@@ -1,0 +1,15 @@
+fdd
+time - time how long a command takes to execute
+ls -al			- list all files and folders with properties
+df -P			- disk space
+hostname -I		- my external ip address
+sudo netstat -tupln | grep regex  - open ports for regex
+lsof - list of all open files and the processes that opened them
+packman -Ql packagename - list of files in packagename
+tree -
+lshw
+xrdb ~/.Xresources - reload x resources
+dpkg -L packagename - list of files in packagename
+
+python -m SimpleHTTPServer 8000     - python2.7
+python3 -m http.server 8000          - python3.5
