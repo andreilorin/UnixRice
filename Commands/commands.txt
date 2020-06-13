@@ -1,4 +1,5 @@
-fdd
+ldd
+curl wttr.in -  get weather
 time - time how long a command takes to execute
 ls -al			- list all files and folders with properties
 df -P			- disk space
