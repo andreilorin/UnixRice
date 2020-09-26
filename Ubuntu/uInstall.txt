@@ -38,10 +38,13 @@ pulseaudio - general purpose sound server
 ranger - terminal file manager
 regolith - i3 window manager
 rofi -  window switcher, application launcher
+rustscan - faster nmap scanning
 sc-im - vim centered terminal spreadsheet manager
+sdkman - tool for managing parallel versions of multiple sdk's
 st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
 time - time how long a command takes to execute
+timeshift - backup/restore system
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator
