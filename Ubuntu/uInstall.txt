@@ -1,7 +1,10 @@
 ack - grep replacement
+asdv vm (https://asdf-vm.com/#/) - manage multiple language runtime versions on a per-project basis
+barrier - use your keyboard and mouse from machine A to control machine B (or more)
 bspwm - tiling window manager
 catfish - file search gui
 cloc - count lines of code
+cmus - console music player for Unix
 conky -  light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 dialog - creates text based color dialog boxes from any shell script language
@@ -9,6 +12,7 @@ dmenu - dynamic menu
 dnsutils - networking
 docker - virtualization
 feh - image viewer
+ffmpeg - record, convert and stream audio and video
 firefox - browser
 fkill - fabulously kill processes
 git - file versioning
@@ -22,6 +26,7 @@ inxi - system informatio tool
 jenkins - ci tools
 jq - json parser
 kvm/qemu - virtualization
+mpv - video player
 neofetch - system info tool
 neomutt - mail reader
 nerdtree - file system explorer for the Vim editor
@@ -37,6 +42,7 @@ pscircle - visualizes linux processes in a radial tree
 pulseaudio - general purpose sound server
 ranger - terminal file manager
 regolith - i3 window manager
+ripgrep - faster grep
 rofi -  window switcher, application launcher
 rustscan - faster nmap scanning
 sc-im - vim centered terminal spreadsheet manager
@@ -45,6 +51,12 @@ st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
 time - time how long a command takes to execute
 timeshift - backup/restore system
+samba - the standard Windows interoperability suite of programs for Linux and Unix
+sdkman (https://sdkman.io/) -  tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
+sc-im - vim centered terminal spreadsheet manager
+sonarqube (https://www.sonarqube.org/) - code quality check
+st - terminal emulator
+tigervnc(tightVNC) - VNC client/server
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator
@@ -56,9 +68,12 @@ vim(neovim, spacevim) - text editor
 virtualbox - virtualization
 vlc - multimedia player
 xbindkeys - bind commands to keys
+ytop - interactive process viewer
 youtube-dl - download videos, audio
 zsh - shell (ohmyzsh + powerlevel10k)
 
+
+xdg-utils
 
 
 config files:
@@ -71,17 +86,3 @@ config files:
 
 /etc/motd           - message of the day
 /etc/update-motd.d/
-
-usefull commands:
-xrdb ~/.Xresources - reload x resources 
-ls -al			- list all files and folders with properties
-df -P			- disk space
-hostname -I		- my external ip address
-sudo netstat -tupln | grep regex  - open ports for regex
-lsof - list of all open files and the processes that opened them
-dpkg -L packagename - list of files in packagename
-tree
-lshw
-
-python -m SimpleHTTPServer 8000     - python2.7
-python3 -m http.server 8000          - python3.5
