@@ -37,6 +37,7 @@ nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
 nnn - terminal file manager
 zip - archiver
+plex - client server media player system
 powerline - is a statusline plugin for Vim
 pscircle - visualizes linux processes in a radial tree
 pulseaudio - general purpose sound server
@@ -45,17 +46,17 @@ regolith - i3 window manager
 ripgrep - faster grep
 rofi -  window switcher, application launcher
 rustscan - faster nmap scanning
+samba - the standard Windows interoperability suite of programs for Linux and Unix
 sc-im - vim centered terminal spreadsheet manager
+sc-im - vim centered terminal spreadsheet manager
+sdkman (https://sdkman.io/) -  tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
 sdkman - tool for managing parallel versions of multiple sdk's
 st - terminal emulator
+st - terminal emulator
+sonarqube (https://www.sonarqube.org/) - code quality check
 tigervnc(tightVNC) - VNC client/server
 time - time how long a command takes to execute
 timeshift - backup/restore system
-samba - the standard Windows interoperability suite of programs for Linux and Unix
-sdkman (https://sdkman.io/) -  tool for managing parallel versions of multiple Software Development Kits on most Unix based systems
-sc-im - vim centered terminal spreadsheet manager
-sonarqube (https://www.sonarqube.org/) - code quality check
-st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
 thunderbird - email client
 tmux - terminal multiplexer

@@ -1,0 +1,17 @@
+ldd
+ss
+curl wttr.in - get weather
+time - how long a command takes to execute
+ls -al
+df -p - disk space
+hostname -I -> external IP address
+sudo netstat -tupln | grep regex -> open ports for regex
+lsof - list of all open files and the processes that opened them
+packman -Ql packagename -> list of files packagename
+tree
+lshw
+xrdb ~/.Xresources - reload resources
+dpkg -L packagename -> list of files in packagename
+
+python -m SimpleHTTPServer 8000 - python 2.7
+python3 -m http.server 8000     - python 3.5

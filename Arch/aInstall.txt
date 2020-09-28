@@ -37,6 +37,7 @@ nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
 nnn - terminal file manager
 zip - file archiver
+plex - client server media player system
 polybar - status bar (i3blocks)
 powerline - is a statusline plugin for Vim
 pscircle - visualizes linux processes in a radial tree
@@ -51,6 +52,7 @@ sc-im - vim centered terminal spreadsheet manager
 sonarqube (https://www.sonarqube.org/) - code quality check
 st - terminal emulator
 tigervnc(tightVNC) - VNC client/server
+time - time how long a command takes to execute
 thunderbird - email client
 tmux - terminal multiplexer
 tilix - tiling terminal emulator
