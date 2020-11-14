@@ -5,6 +5,7 @@ bspwm - tiling window manager
 catfish - file search gui
 cloc - count lines of code
 cmus - console music player for Unix
+cockpit - open web-based interface for servers (https://cockpit-project.org/)
 conky -  light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 dialog - creates text based color dialog boxes from any shell script language
@@ -26,6 +27,7 @@ inxi - system informatio tool
 jenkins - ci tools
 jq - json parser
 kvm/qemu - virtualization
+mpd - audio player
 mpv - video player
 neofetch - system info tool
 neomutt - mail reader
@@ -33,6 +35,7 @@ nerdtree - file system explorer for the Vim editor
 net-tools - network tools
 netdata - network monitoring
 networkmanager - tool for detection and configuration for systems to automatically connect to network
+nextcloud - self-hosted productivity/collaboration platform
 nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
 nnn - terminal file manager
@@ -54,13 +57,14 @@ sdkman - tool for managing parallel versions of multiple sdk's
 st - terminal emulator
 st - terminal emulator
 sonarqube (https://www.sonarqube.org/) - code quality check
+thunderbird - email client
 tigervnc(tightVNC) - VNC client/server
 time - time how long a command takes to execute
 timeshift - backup/restore system
 tigervnc(tightVNC) - VNC client/server
-thunderbird - email client
-tmux - terminal multiplexer
 tilix - tiling terminal emulator
+tmux - terminal multiplexer
+tree - recursive directory listing program
 ubuntu tweaks - ubuntu specific settings
 Ulauncher - application launcher
 urxvt(rxvt-unicode) - terminal emulator

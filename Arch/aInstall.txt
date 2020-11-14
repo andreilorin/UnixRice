@@ -4,6 +4,7 @@ barrier - use your keyboard and mouse from machine A to control machine B (or mo
 bspwm - tiling window manager 
 cloc - count lines of code
 cmus (https://github.com/cmus/cmus) - console music player for Unix
+cockpit - open web-based interface for servers (https://cockpit-project.org/)
 compton (Ubuntu uses it's own gnome composition app)
 conky - light-weight system monitor for X
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
@@ -26,6 +27,7 @@ inxi - system informatio tool
 jenkins - ci tools
 jq - json parser
 kvm/qemu - virtualization
+mpd - audio player
 mpv - video player
 neofetch - system info tool
 neomutt - mail reader
@@ -33,6 +35,7 @@ nerdtree - file system explorer for the Vim editor
 net-tools - network tools
 netdata - network monitoring
 networkmanager - tool for detection and configuration for systems to automatically connect to network
+nextcloud - self-hosted productivity/collaboration platform
 nginx - webserver
 nmap - security scanner, port scanner and network exploration tool
 nnn - terminal file manager
@@ -51,11 +54,12 @@ sdkman (https://sdkman.io/) -  tool for managing parallel versions of multiple S
 sc-im - vim centered terminal spreadsheet manager
 sonarqube (https://www.sonarqube.org/) - code quality check
 st - terminal emulator
+thunderbird - email client
 tigervnc(tightVNC) - VNC client/server
 time - time how long a command takes to execute
-thunderbird - email client
-tmux - terminal multiplexer
 tilix - tiling terminal emulator
+tmux - terminal multiplexer
+tree - recursive directory listing program
 ufw - firewall
 urxvt(rxvt-unicode) - terminal emulator
 vifm - terminal file manger
