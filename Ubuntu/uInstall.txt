@@ -7,8 +7,10 @@ cloc - count lines of code
 cmus - console music player for Unix
 cockpit - open web-based interface for servers (https://cockpit-project.org/)
 conky -  light-weight system monitor for X
+ctop - top like interface for container metrics - https://github.com/bcicen/ctop
 curl - command line tool and library for transferring data with URLs (wget should be installed by default)
 dialog - creates text based color dialog boxes from any shell script language
+dive - tool for exploring a docker image, layer contents, and discovering ways to shrink the size of your Docker/OCI image - https://github.com/wagoodman/dive
 dmenu - dynamic menu
 dnsutils - networking
 docker - virtualization
